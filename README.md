@@ -10,14 +10,13 @@ Although my expertise is mobile development, I can also develop websites and API
 
 ## Let's get in touch:
 
-<a href="mailto:chuy_eduardo_garcia@hotmail.com"> ![Static badge](https://img.shields.io/badge/chuy\_eduardo\_garcia@hotmail.com-0078D4?logo=microsoftoutlook) <a/>
+<a href="mailto:chuy_eduardo_garcia@hotmail.com"> ![Email](https://img.shields.io/badge/chuy\_eduardo\_garcia@hotmail.com-0078D4?logo=microsoftoutlook) <a/>
 
-<a href="https://www.linkedin.com/in/jes%C3%BAs-eduardo-mart%C3%ADnez-garc%C3%ADa-773040217" target="_blank"> ![Static badge](https://img.shields.io/badge/Jes&uacute;s%20Garc&iacute;a-0A66C2?logo=linkedin) </a>
+<a href="https://www.linkedin.com/in/jes%C3%BAs-eduardo-mart%C3%ADnez-garc%C3%ADa-773040217" target="_blank"> ![LinkedIn profile](https://img.shields.io/badge/Jes&uacute;s%20Garc&iacute;a-0A66C2?logo=linkedin) </a>
 
-
-<a href="tel:555-555-9673"> ![Static badge](https://img.shields.io/badge/📞%20(+52)%20961--307--9673-000) </a> 
-<a href="https://wa.me/529613079673"> ![Static badge](https://img.shields.io/badge/Whatsapp-000?logo=whatsapp) </a>
-<a href="https://t.me/ChuyEx"> ![Static badge](https://img.shields.io/badge/Telegram-000?logo=telegram) </a>
+<a href="#"> ![Phone number](https://img.shields.io/badge/Phone%20number-%2B(52)%209613079673-blue?logo=phone) </a>
+<a href="https://wa.me/529613079673"> ![Whatsapp](https://img.shields.io/badge/Whatsapp-000?logo=whatsapp) </a>
+<a href="https://t.me/ChuyEx"> ![Telegram](https://img.shields.io/badge/Telegram-000?logo=telegram) </a>
 
 ## Languages & tools
 
