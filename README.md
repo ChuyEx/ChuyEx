@@ -5,16 +5,19 @@ Hello, my name is Jesús García and I'm a programmer who is passionate about mo
 
 Although my expertise is mobile development, I can also develop websites and APIs. I invite you to check the **Languages and tools** section, to know more about the technologies that I have used up to now.
 
-⚡ Fun fact: Me gusta combinar diversos idiomas par así crear juegos de palabras o situaciones extrañas, de hecho justamente estás leyendo esto en español cuando todo lo demás se encuentra en inglés, I'm so sorry for you but...
+⚡ Fun fact: Me gusta combinar diversos idiomas para así crear juegos de palabras o situaciones extrañas, de hecho justamente estás leyendo esto en español cuando todo lo demás se encuentra en inglés, I'm so sorry for you but...
 > "puedes salir de latinoamérica, pero latinoamérica no saldrá de ti."
 
 ## Let's get in touch:
 
-![Static badge](https://img.shields.io/badge/chuy\_eduardo\_garcia@hotmail.com-0078D4?logo=microsoftoutlook&link=mailto:chuy_eduardo_garcia@hotmail.com)
+<a href="mailto:chuy_eduardo_garcia@hotmail.com"> ![Static badge](https://img.shields.io/badge/chuy\_eduardo\_garcia@hotmail.com-0078D4?logo=microsoftoutlook) <a/>
 
-![Static badge](https://img.shields.io/badge/Jes&uacute;s%20Garc&iacute;a-0A66C2?logo=linkedin&link=https%3A%2F%2www.linkedin.com/in/jes%C3%BAs-eduardo-mart%C3%ADnez-garc%C3%ADa-773040217)
+<a href="https://www.linkedin.com/in/jes%C3%BAs-eduardo-mart%C3%ADnez-garc%C3%ADa-773040217" target="_blank"> ![Static badge](https://img.shields.io/badge/Jes&uacute;s%20Garc&iacute;a-0A66C2?logo=linkedin) </a>
 
-![Static badge](https://img.shields.io/badge/📞%20(+52)%20961--307--9673-000?link=tel:555-555-9673) ![Static badge](https://img.shields.io/badge/Whatsapp-000?logo=whatsapp&link=https%3A%2F%2wa.me/529613079673) ![Static badge](https://img.shields.io/badge/Telegram-000?logo=telegram&link=https%3A%2F%https://t.me/ChuyEx)
+
+<a href="tel:555-555-9673"> ![Static badge](https://img.shields.io/badge/📞%20(+52)%20961--307--9673-000) </a> 
+<a href="https://wa.me/529613079673"> ![Static badge](https://img.shields.io/badge/Whatsapp-000?logo=whatsapp) </a>
+<a href="https://t.me/ChuyEx"> ![Static badge](https://img.shields.io/badge/Telegram-000?logo=telegram) </a>
 
 ## Languages & tools
 
